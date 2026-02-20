@@ -73,7 +73,5 @@ Add multiple user cards
 Add friend counter system
 Add animation effects
 Store friend state using Local Storage
-
 Add backend integration
-
 Convert into mini social media UI
